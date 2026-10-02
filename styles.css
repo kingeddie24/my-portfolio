@@ -17,3 +17,23 @@ header {
 h2 {
     color: #0b6e4f;
 }
+
+footer {
+    text-align: center;
+    margin-top: 32px;
+    padding: 16px;
+    border-top: 1px solid #ccc;
+}
+
+a {
+    color: #42e633;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+li {
+    margin-bottom: 8px;
+}
