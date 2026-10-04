@@ -37,3 +37,22 @@ a:hover {
 li {
     margin-bottom: 8px;
 }
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.card {
+    flex: 1 1 200px;
+    padding: 16px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f6faf8;
+}
+
+.status {
+    font-size: 0.9rem;
+    color: #555;
+}
